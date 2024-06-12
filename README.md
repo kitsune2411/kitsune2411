@@ -39,9 +39,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/agung-kri
 
 Here are some of the badges I have earned:
 
-![AWS Partner: Technical Accredited](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-partner-technical-accredited.png)
-![AWS Knowledge: Cloud Essentials](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-knowledge-cloud-essentials.png)
-![AWS Cloud Quest: Cloud Practitioner](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-cloud-quest-cloud-practitioner.png)
+![AWS Partner: Technical Accredited](https://github.com/kitsune2411/kitsune2411/blob/main/assets/aws-partner-technical-accredited.png)
+![AWS Knowledge: Cloud Essentials](https://github.com/kitsune2411/kitsune2411/blob/main/assets/aws-knowledge-cloud-essentials.png)
+![AWS Cloud Quest: Cloud Practitioner](https://github.com/kitsune2411/kitsune2411/blob/main/assets/aws-cloud-quest-cloud-practitioner.png)
 
 ## Top Languages
 
