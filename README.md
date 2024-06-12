@@ -35,6 +35,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/agung-kri
 ![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsune2411&show_icons=true&theme=radical)
 -->
 
+## Showcase of My Badges
+
+Here are some of the badges I have earned:
+
+![AWS Partner: Technical Accredited](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-partner-technical-accredited.png)
+![AWS Knowledge: Cloud Essentials](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-knowledge-cloud-essentials.png)
+![AWS Cloud Quest: Cloud Practitioner](https://github.com/agung-kristiawan24/agung-kristiawan24/blob/main/assets/aws-cloud-quest-cloud-practitioner.png)
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsune2411&layout=compact&theme=radical)
